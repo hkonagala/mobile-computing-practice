@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_new">NewActivity</string>
+</resources>

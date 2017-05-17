@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_47267279bd52781433916764f16662cb9d30e424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_7a2c7c90d341bc4dbd7b86c922a72fe11cace42d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_abeec0bbd8078d2a27583e8d800d4b4911a5fd9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ef7c0023eddfe6e8b209a104ddcd6a0cc2d51e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2eefcb1fe56ffe58404b9677b2cd838aec44a829">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a68b1209203f9a9a7df637b13af1ee75261734f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3278c4c39d40d88fe4cb590f2a2db459b7582798">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e667c123cff9ce241500cf1989f69f821adaff2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_51891b5904c1ed41af8f4928bc3bef0a9a1626df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_e01c253ab934f9631b7579456ab623c117bc2b2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4887ba36cd47a80404558f39a9eae803a3d44969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_6ab60722e47107ca56c9aceeba7a3b9e52e9e1af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ce624a165db05369a389c0a5740d9523cefdd2db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/phani/dev/projects/Android/Udacity/ud851-Exercises/Lesson04a-Starting-New-Activities/SensorExample2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_dd95a1f4d06a77da52d686e402f05a1f56a4c4e9/classes.dex" />
+    </item>
+
+</items>

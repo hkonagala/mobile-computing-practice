@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InClassAssignment3</string>
+    <string name="auth_failed">Login Unsuccessful</string>
+</resources>
